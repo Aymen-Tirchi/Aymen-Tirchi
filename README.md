@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen-tirchi&label=Profile%20views&color=0e75b6&style=flat" alt="aymen-tirchi" /> </p>
 
-- 💬 I'm currently learning **Blockchain and Dapp** development 
+- 💬 I'm currently learning **Blockchain** development 
 
 - 📫 How to reach me **aymentirchi05@gmail.com**
 
