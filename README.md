@@ -4,8 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen-tirchi&label=Profile%20views&color=0e75b6&style=flat" alt="aymen-tirchi" /> </p>
 
-- 🔭 I'm currently learning **Blockchain** development 
-- 💬 Ask me about **Blockchain, Web3**
+- 🌱 I'm currently learning **Blockchain development**
+- 👯 I’m looking to contribute to the **Blockchain community**
+- 💬 Ask me about **Blockchain, Optimistic Rollups**
 - 📫 How to reach me **aymentirchi05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
