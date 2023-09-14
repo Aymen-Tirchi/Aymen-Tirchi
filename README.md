@@ -23,12 +23,3 @@
     <a href="https://github.com/Aymen-Tirchi/github-readme-stats"><img alt="Aymen Tirchi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aymen-Tirchi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Brivan-26/github-readme-stats"><img alt="Aymen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymen-Tirchi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
-</p>
-<br/>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/Aymen#1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aymen#1211" height="30" width="40" /></a>
-</p>
